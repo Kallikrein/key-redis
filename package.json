@@ -15,7 +15,7 @@
     "sails.js",
     "plugin"
   ],
-  "author": "balderdashy",
+  "author": "Thomas Charlat <thomas.charlat@gmail.com>",
   "license": "MIT",
   "readmeFilename": "README.md",
   "dependencies": {},
